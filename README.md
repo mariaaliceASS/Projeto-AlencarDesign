@@ -24,7 +24,6 @@ Esse Projeto Integrador consiste em um site para auxiliar a marcação de consul
 * Consultar as consultas pendentes para atendimento;
 * Editar as consultas;
 * Excluir as consultas;
-* Logar o usuário no sistema;
 
 
  
