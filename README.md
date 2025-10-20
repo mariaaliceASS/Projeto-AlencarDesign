@@ -6,7 +6,7 @@
 Em desenvolvimento 
  
 ### TECNOLOGIAS UTILIZADAS 
- JAVA e MySQL
+ JAVA e MySQL(Não possui banco de dados ainda)
 
 ### TECNOLOGIAS QUE SERÃO UTILIZADAS
 CSS, HTML, JAVASCRIPT.
